@@ -8,12 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springboot-first-redis" />
         <module name="springboot-helloworld" />
+        <module name="springboot-kafka" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="linkpro" target="1.8" />
       <module name="springboot-first-redis" target="1.8" />
       <module name="springboot-helloworld" target="1.8" />
+      <module name="springboot-kafka" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

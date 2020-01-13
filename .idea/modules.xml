@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/linkpro.iml" filepath="$PROJECT_DIR$/linkpro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-first-redis/springboot-first-redis.iml" filepath="$PROJECT_DIR$/springboot-first-redis/springboot-first-redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-helloworld/springboot-helloworld.iml" filepath="$PROJECT_DIR$/springboot-helloworld/springboot-helloworld.iml" />
     </modules>
   </component>

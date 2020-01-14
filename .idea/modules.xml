@@ -4,8 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/linkpro.iml" filepath="$PROJECT_DIR$/linkpro.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-first-redis/springboot-first-redis.iml" filepath="$PROJECT_DIR$/springboot-first-redis/springboot-first-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-first-redis/springboot-first-redis.iml" filepath="$PROJECT_DIR$/springboot-first-redis/springboot-first-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-helloworld/springboot-helloworld.iml" filepath="$PROJECT_DIR$/springboot-helloworld/springboot-helloworld.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-helloworld/springboot-helloworld.iml" filepath="$PROJECT_DIR$/springboot-helloworld/springboot-helloworld.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-kafka/springboot-kafka.iml" filepath="$PROJECT_DIR$/springboot-kafka/springboot-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-zookeeper/springboot-zookeeper.iml" filepath="$PROJECT_DIR$/springboot-zookeeper/springboot-zookeeper.iml" />
     </modules>
   </component>
 </project>

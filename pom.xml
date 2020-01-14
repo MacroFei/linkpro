@@ -19,6 +19,7 @@
         <module>springboot-helloworld</module>
         <module>springboot-first-redis</module>
         <module>springboot-kafka</module>
+        <module>springboot-zookeeper</module>
     </modules>
     <properties>
         <java.version>1.8</java.version>

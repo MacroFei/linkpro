@@ -12,5 +12,6 @@
     <artifactId>springboot-mybatis</artifactId>
     <modules >
         <module>springboot-mybatis-annotation</module>
+        <module>springboot-mybatis-xml</module>
     </modules>
 </project>

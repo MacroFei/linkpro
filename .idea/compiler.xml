@@ -10,6 +10,7 @@
         <module name="springboot-helloworld" />
         <module name="springboot-kafka" />
         <module name="springboot-mybatis-annotation" />
+        <module name="springboot-mybatis-xml" />
         <module name="springboot-zookeeper" />
       </profile>
     </annotationProcessing>
@@ -20,6 +21,7 @@
       <module name="springboot-kafka" target="1.8" />
       <module name="springboot-mybatis" target="1.8" />
       <module name="springboot-mybatis-annotation" target="1.8" />
+      <module name="springboot-mybatis-xml" target="1.8" />
       <module name="springboot-zookeeper" target="1.8" />
     </bytecodeTargetLevel>
   </component>

@@ -5,10 +5,13 @@
       <module fileurl="file://$PROJECT_DIR$/linkpro.iml" filepath="$PROJECT_DIR$/linkpro.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-docker/springboot-docker.iml" filepath="$PROJECT_DIR$/springboot-docker/springboot-docker.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-first-redis/springboot-first-redis.iml" filepath="$PROJECT_DIR$/springboot-first-redis/springboot-first-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-first-redis/springboot-first-redis.iml" filepath="$PROJECT_DIR$/springboot-first-redis/springboot-first-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-helloworld/springboot-helloworld.iml" filepath="$PROJECT_DIR$/springboot-helloworld/springboot-helloworld.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-helloworld/springboot-helloworld.iml" filepath="$PROJECT_DIR$/springboot-helloworld/springboot-helloworld.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-kafka/springboot-kafka.iml" filepath="$PROJECT_DIR$/springboot-kafka/springboot-kafka.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-mybatis/springboot-mybatis.iml" filepath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-mybatis/springboot-mybatis-annotation/springboot-mybatis-annotation.iml" filepath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis-annotation/springboot-mybatis-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mybatis-plus/springboot-mybatis-plus.iml" filepath="$PROJECT_DIR$/springboot-mybatis-plus/springboot-mybatis-plus.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-mybatis/springboot-mybatis-xml/springboot-mybatis-xml.iml" filepath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis-xml/springboot-mybatis-xml.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-war/springboot-war.iml" filepath="$PROJECT_DIR$/springboot-war/springboot-war.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-zookeeper/springboot-zookeeper.iml" filepath="$PROJECT_DIR$/springboot-zookeeper/springboot-zookeeper.iml" />

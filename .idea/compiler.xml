@@ -9,6 +9,7 @@
         <module name="springboot-helloworld" />
         <module name="springboot-kafka" />
         <module name="springboot-mybatis-xml" />
+        <module name="springboot-email" />
         <module name="springboot-first-redis" />
         <module name="springboot-mybatis-annotation" />
         <module name="springboot-mybatis-plus" />
@@ -21,6 +22,7 @@
     <bytecodeTargetLevel>
       <module name="linkpro" target="1.8" />
       <module name="springboot-docker" target="1.8" />
+      <module name="springboot-email" target="1.8" />
       <module name="springboot-first-redis" target="1.8" />
       <module name="springboot-helloworld" target="1.8" />
       <module name="springboot-kafka" target="1.8" />
@@ -36,6 +38,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="springboot-docker" options="-parameters" />
+      <module name="springboot-email" options="-parameters" />
       <module name="springboot-first-redis" options="-parameters" />
       <module name="springboot-helloworld" options="-parameters" />
       <module name="springboot-kafka" options="-parameters" />

@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f0bcfac-ffc3-4e52-9103-6d1f148062c3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/springboot-log4j2/src/main/java/com/xlccc/log4j2/LogExampleOther.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-log4j2/src/main/resources/log4j2-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-logback/src/main/resources/logback-spring.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -76,7 +75,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springboot-logback/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -101,14 +100,14 @@
       <recent name="com.xlccc.producer" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\macro\Documents\GitHub\linkpro\springboot-logback\src\main\resources" />
       <recent name="C:\Users\macro\Documents\GitHub\linkpro\springboot-email\src\main\resources\templates" />
       <recent name="C:\Users\macro\Documents\GitHub\linkpro\springboot-email\src\main\java\com\xlccc\service\vo" />
       <recent name="$PROJECT_DIR$/springboot-mybatis-plus/src/main/java/com/xlccc" />
       <recent name="$PROJECT_DIR$/springboot-mybatis-plus/src/main/resources/db" />
-      <recent name="$PROJECT_DIR$/springboot-mybatis-plus/src/main/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LogExampleOther">
+  <component name="RunManager" selected="Spring Boot.SpringbootLogbackApplication">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -252,6 +251,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringbootLogbackApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-logback" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xlccc.springbootlogback.SpringbootLogbackApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringbootMybatisAnnotationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springboot-mybatis-annotation" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.xlccc.SpringbootMybatisAnnotationApplication" />
@@ -314,6 +320,7 @@
       <item itemvalue="Spring Boot.SpringbootSwaggerApplication" />
       <item itemvalue="Spring Boot.SpringbootEmailApplication" />
       <item itemvalue="Spring Boot.SpringbootLog4j2Application" />
+      <item itemvalue="Spring Boot.SpringbootLogbackApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -351,7 +358,7 @@
       <workItem from="1579886087643" duration="6135000" />
       <workItem from="1579951570764" duration="939000" />
       <workItem from="1579972201957" duration="2443000" />
-      <workItem from="1579975525739" duration="598000" />
+      <workItem from="1579975525739" duration="1191000" />
     </task>
     <servers />
   </component>
@@ -415,22 +422,22 @@
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="508" y="361" key="FileChooserDialogImpl/0.0.1500.960@0.0.1500.960" timestamp="1579884647705" />
-    <state width="1054" height="253" key="GridCell.Tab.0.bottom" timestamp="1579975404116">
+    <state width="1054" height="253" key="GridCell.Tab.0.bottom" timestamp="1579976750164">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1054" height="253" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1579975404116" />
-    <state width="1054" height="253" key="GridCell.Tab.0.center" timestamp="1579975404116">
+    <state width="1054" height="253" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1579976750164" />
+    <state width="1054" height="253" key="GridCell.Tab.0.center" timestamp="1579976750164">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1054" height="253" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1579975404116" />
-    <state width="1054" height="253" key="GridCell.Tab.0.left" timestamp="1579975404115">
+    <state width="1054" height="253" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1579976750164" />
+    <state width="1054" height="253" key="GridCell.Tab.0.left" timestamp="1579976750163">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1054" height="253" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1579975404115" />
-    <state width="1054" height="253" key="GridCell.Tab.0.right" timestamp="1579975404116">
+    <state width="1054" height="253" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1579976750163" />
+    <state width="1054" height="253" key="GridCell.Tab.0.right" timestamp="1579976750164">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1054" height="253" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1579975404116" />
+    <state width="1054" height="253" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1579976750164" />
     <state width="942" height="253" key="GridCell.Tab.1.bottom" timestamp="1579951492476">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
@@ -459,10 +466,10 @@
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="415" y="286" key="com.intellij.ide.util.TipDialog/0.0.1500.960@0.0.1500.960" timestamp="1579951571437" />
-    <state x="195" y="189" key="new project wizard" timestamp="1579974362699">
+    <state x="234" y="168" key="new project wizard" timestamp="1579976527425">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="195" y="189" key="new project wizard/0.0.1500.960@0.0.1500.960" timestamp="1579974362699" />
+    <state x="234" y="168" key="new project wizard/0.0.1500.960@0.0.1500.960" timestamp="1579976527425" />
     <state x="671" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1579885711409">
       <screen x="0" y="0" width="1500" height="960" />
     </state>

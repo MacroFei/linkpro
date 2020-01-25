@@ -1,0 +1,12 @@
+2020-01-26 02:25:52,812 [main] INFO  [c.x.springbootlogback.SpringbootLogbackApplication] StartupInfoLogger.java:55 - Starting SpringbootLogbackApplication on DESKTOP-J447DEA with PID 18300 (C:\Users\macro\Documents\GitHub\linkpro\springboot-logback\target\classes started by macro in C:\Users\macro\Documents\GitHub\linkpro)
+2020-01-26 02:25:52,817 [main] INFO  [c.x.springbootlogback.SpringbootLogbackApplication] SpringApplication.java:651 - No active profile set, falling back to default profiles: default
+2020-01-26 02:25:54,185 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer] TomcatWebServer.java:92 - Tomcat initialized with port(s): 8080 (http)
+2020-01-26 02:25:54,201 [main] INFO  [org.apache.catalina.core.StandardService] DirectJDKLog.java:173 - Starting service [Tomcat]
+2020-01-26 02:25:54,202 [main] INFO  [org.apache.catalina.core.StandardEngine] DirectJDKLog.java:173 - Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-01-26 02:25:54,412 [main] INFO  [o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]] DirectJDKLog.java:173 - Initializing Spring embedded WebApplicationContext
+2020-01-26 02:25:54,412 [main] INFO  [org.springframework.web.context.ContextLoader] ServletWebServerApplicationContext.java:284 - Root WebApplicationContext: initialization completed in 1512 ms
+2020-01-26 02:25:54,663 [main] INFO  [o.s.scheduling.concurrent.ThreadPoolTaskExecutor] ExecutorConfigurationSupport.java:171 - Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-26 02:25:55,067 [main] INFO  [o.s.boot.web.embedded.tomcat.TomcatWebServer] TomcatWebServer.java:204 - Tomcat started on port(s): 8080 (http) with context path ''
+2020-01-26 02:25:55,075 [main] INFO  [c.x.springbootlogback.SpringbootLogbackApplication] StartupInfoLogger.java:61 - Started SpringbootLogbackApplication in 3.038 seconds (JVM running for 5.174)
+2020-01-26 02:25:55,078 [main] INFO  [c.x.springbootlogback.SpringbootLogbackApplication] SpringbootLogbackApplication.java:18 - Spring boot启动初始化了 126 个 Bean
+2020-01-26 02:25:55,091 [main] WARN  [c.x.springbootlogback.SpringbootLogbackApplication] SpringbootLogbackApplication.java:19 - Spring boot启动初始化了 126 个 Bean

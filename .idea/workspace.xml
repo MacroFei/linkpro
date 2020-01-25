@@ -2,46 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f0bcfac-ffc3-4e52-9103-6d1f148062c3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_jakarta_mail_1_6_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_mail_2_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-email/springboot-email.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-email/src/main/java/com/xlccc/common/JsonResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-email/src/main/java/com/xlccc/controller/EmailController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-email/src/main/java/com/xlccc/service/IMailService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-email/src/main/java/com/xlccc/service/impl/IMailServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-email/src/main/resources/templates/emailTemp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-email/src/main/resources/templates/welcome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-log4j2/src/main/java/com/xlccc/log4j2/LogExampleOther.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-log4j2/src/main/resources/log4j2-spring.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-docker/target/classes/com/xlccc/SpringbootDockerApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-docker/target/classes/com/xlccc/SpringbootDockerApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-kafka/target/classes/com/xlccc/KafkaApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-kafka/target/classes/com/xlccc/KafkaApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-kafka/target/classes/com/xlccc/consumer/KafkaConsumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-kafka/target/classes/com/xlccc/consumer/KafkaConsumer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-kafka/target/classes/com/xlccc/producer/KafkaProducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-kafka/target/classes/com/xlccc/producer/KafkaProducer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis-plus/target/classes/com/xlccc/SpringbootMybatisPlusApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mybatis-plus/target/classes/com/xlccc/SpringbootMybatisPlusApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis-plus/target/classes/com/xlccc/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mybatis-plus/target/classes/com/xlccc/model/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis-annotation/target/classes/com/xlccc/SpringbootMybatisAnnotationApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis-annotation/target/classes/com/xlccc/SpringbootMybatisAnnotationApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis-annotation/target/classes/com/xlccc/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis-annotation/target/classes/com/xlccc/controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis-annotation/target/classes/com/xlccc/exception/GlobalExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis-annotation/target/classes/com/xlccc/exception/GlobalExceptionHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis-annotation/target/classes/com/xlccc/mapper/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis-annotation/target/classes/com/xlccc/mapper/UserMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis-annotation/target/classes/com/xlccc/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis-annotation/target/classes/com/xlccc/pojo/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis-xml/target/classes/com/xlccc/SpringbootMybatisXmlApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis-xml/target/classes/com/xlccc/SpringbootMybatisXmlApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis-xml/target/classes/com/xlccc/util/MybatisGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis-xml/target/classes/com/xlccc/util/MybatisGenerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis-xml/target/classes/com/xlccc/util/OverIsMergeablePlugin.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis-xml/target/classes/com/xlccc/util/OverIsMergeablePlugin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-war/target/classes/com/xlccc/SpringbootWarApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-war/target/classes/com/xlccc/SpringbootWarApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-zookeeper/target/classes/com/xlccc/config/props/ZkWatcher.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-zookeeper/target/classes/com/xlccc/config/props/ZkWatcher.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-zookeeper/target/classes/com/xlccc/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-zookeeper/target/classes/com/xlccc/main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +87,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.32068965" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -141,13 +108,27 @@
       <recent name="$PROJECT_DIR$/springboot-mybatis-plus/src/main/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringbootEmailApplication">
+  <component name="RunManager" selected="Application.LogExampleOther">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+    </configuration>
+    <configuration name="LogExampleOther" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xlccc.log4j2.LogExampleOther" />
+      <module name="springboot-log4j2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xlccc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -264,6 +245,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringbootLog4j2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-log4j2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xlccc.SpringbootLog4j2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringbootMybatisAnnotationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springboot-mybatis-annotation" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.xlccc.SpringbootMybatisAnnotationApplication" />
@@ -292,19 +280,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringbootWarApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="springboot-war" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xlccc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xlccc.SpringbootWarApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -324,6 +299,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.LogExampleOther" />
       <item itemvalue="JUnit.SpringbootMybatisPlusApplicationTests" />
       <item itemvalue="JUnit.SpringbootMybatisPlusApplicationTests.testSelect" />
       <item itemvalue="JUnit.SpringbootMybatisPlusApplicationTests.testSelectOne" />
@@ -337,15 +313,15 @@
       <item itemvalue="Spring Boot.SpringbootMybatisPlusApplication" />
       <item itemvalue="Spring Boot.SpringbootSwaggerApplication" />
       <item itemvalue="Spring Boot.SpringbootEmailApplication" />
-      <item itemvalue="Spring Boot.SpringbootWarApplication" />
+      <item itemvalue="Spring Boot.SpringbootLog4j2Application" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LogExampleOther" />
         <item itemvalue="JUnit.SpringbootMybatisPlusApplicationTests.testInsert" />
         <item itemvalue="JUnit.SpringbootMybatisPlusApplicationTests.testSelect" />
         <item itemvalue="JUnit.SpringbootMybatisPlusApplicationTests.testSelectOne" />
         <item itemvalue="JUnit.SpringbootMybatisPlusApplicationTests" />
-        <item itemvalue="Spring Boot.SpringbootWarApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -372,7 +348,10 @@
       <workItem from="1579773738582" duration="838000" />
       <workItem from="1579863578145" duration="9801000" />
       <workItem from="1579885525171" duration="237000" />
-      <workItem from="1579886087643" duration="4355000" />
+      <workItem from="1579886087643" duration="6135000" />
+      <workItem from="1579951570764" duration="939000" />
+      <workItem from="1579972201957" duration="2443000" />
+      <workItem from="1579975525739" duration="598000" />
     </task>
     <servers />
   </component>
@@ -424,10 +403,10 @@
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="295" y="406" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1500.960@0.0.1500.960" timestamp="1579884999464" />
-    <state x="422" y="362" width="716" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579883818743">
+    <state x="422" y="362" width="716" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579975913356">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="422" y="362" width="716" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1500.960@0.0.1500.960" timestamp="1579883818743" />
+    <state x="422" y="362" width="716" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1500.960@0.0.1500.960" timestamp="1579975913356" />
     <state x="391" y="360" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1579885000116">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
@@ -436,50 +415,54 @@
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="508" y="361" key="FileChooserDialogImpl/0.0.1500.960@0.0.1500.960" timestamp="1579884647705" />
-    <state width="1458" height="253" key="GridCell.Tab.0.bottom" timestamp="1579890371396">
+    <state width="1054" height="253" key="GridCell.Tab.0.bottom" timestamp="1579975404116">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1458" height="253" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1579890371396" />
-    <state width="1458" height="253" key="GridCell.Tab.0.center" timestamp="1579890371395">
+    <state width="1054" height="253" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1579975404116" />
+    <state width="1054" height="253" key="GridCell.Tab.0.center" timestamp="1579975404116">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1458" height="253" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1579890371395" />
-    <state width="1458" height="253" key="GridCell.Tab.0.left" timestamp="1579890371395">
+    <state width="1054" height="253" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1579975404116" />
+    <state width="1054" height="253" key="GridCell.Tab.0.left" timestamp="1579975404115">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1458" height="253" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1579890371395" />
-    <state width="1458" height="253" key="GridCell.Tab.0.right" timestamp="1579890371396">
+    <state width="1054" height="253" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1579975404115" />
+    <state width="1054" height="253" key="GridCell.Tab.0.right" timestamp="1579975404116">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1458" height="253" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1579890371396" />
-    <state width="1458" height="253" key="GridCell.Tab.1.bottom" timestamp="1579890371396">
+    <state width="1054" height="253" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1579975404116" />
+    <state width="942" height="253" key="GridCell.Tab.1.bottom" timestamp="1579951492476">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1458" height="253" key="GridCell.Tab.1.bottom/0.0.1500.960@0.0.1500.960" timestamp="1579890371396" />
-    <state width="1458" height="253" key="GridCell.Tab.1.center" timestamp="1579890371396">
+    <state width="942" height="253" key="GridCell.Tab.1.bottom/0.0.1500.960@0.0.1500.960" timestamp="1579951492476" />
+    <state width="942" height="253" key="GridCell.Tab.1.center" timestamp="1579951492476">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1458" height="253" key="GridCell.Tab.1.center/0.0.1500.960@0.0.1500.960" timestamp="1579890371396" />
-    <state width="1458" height="253" key="GridCell.Tab.1.left" timestamp="1579890371396">
+    <state width="942" height="253" key="GridCell.Tab.1.center/0.0.1500.960@0.0.1500.960" timestamp="1579951492476" />
+    <state width="942" height="253" key="GridCell.Tab.1.left" timestamp="1579951492475">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1458" height="253" key="GridCell.Tab.1.left/0.0.1500.960@0.0.1500.960" timestamp="1579890371396" />
-    <state width="1458" height="253" key="GridCell.Tab.1.right" timestamp="1579890371396">
+    <state width="942" height="253" key="GridCell.Tab.1.left/0.0.1500.960@0.0.1500.960" timestamp="1579951492475" />
+    <state width="942" height="253" key="GridCell.Tab.1.right" timestamp="1579951492476">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1458" height="253" key="GridCell.Tab.1.right/0.0.1500.960@0.0.1500.960" timestamp="1579890371396" />
+    <state width="942" height="253" key="GridCell.Tab.1.right/0.0.1500.960@0.0.1500.960" timestamp="1579951492476" />
     <state x="281" y="136" key="Maven.ArtifactSearchDialog" timestamp="1579886198610">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="281" y="136" key="Maven.ArtifactSearchDialog/0.0.1500.960@0.0.1500.960" timestamp="1579886198610" />
-    <state x="415" y="286" key="com.intellij.ide.util.TipDialog" timestamp="1579773782409">
+    <state x="355" y="109" key="SettingsEditor" timestamp="1579975455973">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="415" y="286" key="com.intellij.ide.util.TipDialog/0.0.1500.960@0.0.1500.960" timestamp="1579773782409" />
-    <state x="97" y="71" key="new project wizard" timestamp="1579883350154">
+    <state x="355" y="109" key="SettingsEditor/0.0.1500.960@0.0.1500.960" timestamp="1579975455973" />
+    <state x="415" y="286" key="com.intellij.ide.util.TipDialog" timestamp="1579951571437">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="97" y="71" key="new project wizard/0.0.1500.960@0.0.1500.960" timestamp="1579883350154" />
+    <state x="415" y="286" key="com.intellij.ide.util.TipDialog/0.0.1500.960@0.0.1500.960" timestamp="1579951571437" />
+    <state x="195" y="189" key="new project wizard" timestamp="1579974362699">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="195" y="189" key="new project wizard/0.0.1500.960@0.0.1500.960" timestamp="1579974362699" />
     <state x="671" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1579885711409">
       <screen x="0" y="0" width="1500" height="960" />
     </state>

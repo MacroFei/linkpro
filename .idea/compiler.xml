@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -11,6 +12,7 @@
         <module name="springboot-mybatis-xml" />
         <module name="springboot-email" />
         <module name="springboot-first-redis" />
+        <module name="springboot-log4j2" />
         <module name="springboot-mybatis-annotation" />
         <module name="springboot-mybatis-plus" />
         <module name="springboot-swagger" />
@@ -26,6 +28,7 @@
       <module name="springboot-first-redis" target="1.8" />
       <module name="springboot-helloworld" target="1.8" />
       <module name="springboot-kafka" target="1.8" />
+      <module name="springboot-log4j2" target="1.8" />
       <module name="springboot-mybatis" target="1.8" />
       <module name="springboot-mybatis-annotation" target="1.8" />
       <module name="springboot-mybatis-plus" target="1.8" />
@@ -42,6 +45,7 @@
       <module name="springboot-first-redis" options="-parameters" />
       <module name="springboot-helloworld" options="-parameters" />
       <module name="springboot-kafka" options="-parameters" />
+      <module name="springboot-log4j2" options="-parameters" />
       <module name="springboot-mybatis-annotation" options="-parameters" />
       <module name="springboot-mybatis-plus" options="-parameters" />
       <module name="springboot-mybatis-xml" options="-parameters" />

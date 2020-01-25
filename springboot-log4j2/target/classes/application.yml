@@ -1,0 +1,4 @@
+logging:
+  config: xxxx.xml  #Ĭ����Ϊlog4j2-spring.xml ���ⶨ���޸Ĵ˴�����
+  level:
+    cn.jay.repository: trace

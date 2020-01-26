@@ -19,6 +19,7 @@
         <option value="$PROJECT_DIR$/springboot-email/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-log4j2/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-logback/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-oss-qiniu/pom.xml" />
       </list>
     </option>
   </component>

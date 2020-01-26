@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f0bcfac-ffc3-4e52-9103-6d1f148062c3" name="Default" comment="" />
+    <list default="true" id="1f0bcfac-ffc3-4e52-9103-6d1f148062c3" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_qiniu_qiniu_java_sdk_7_2_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_14_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_17_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-oss-qiniu/springboot-oss-qiniu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-oss-qiniu/src/main/java/com/xlccc/config/UploadConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-oss-qiniu/src/main/java/com/xlccc/controller/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-oss-qiniu/src/main/java/com/xlccc/controller/UploadController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-oss-qiniu/src/main/java/com/xlccc/service/IQiNiuService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-oss-qiniu/src/main/java/com/xlccc/service/impl/QiNiuServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-oss-qiniu/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,9 +49,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
-        <option value="Interface" />
         <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -68,7 +86,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/springboot-logback/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springboot-oss-qiniu/src/main/resources/templates" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -93,14 +111,14 @@
       <recent name="com.xlccc.producer" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\macro\Documents\GitHub\linkpro\springboot-oss-qiniu\src\main\resources\templates" />
       <recent name="C:\Users\macro\Documents\GitHub\linkpro\springboot-logback\src\main\resources" />
       <recent name="C:\Users\macro\Documents\GitHub\linkpro\springboot-email\src\main\resources\templates" />
       <recent name="C:\Users\macro\Documents\GitHub\linkpro\springboot-email\src\main\java\com\xlccc\service\vo" />
       <recent name="$PROJECT_DIR$/springboot-mybatis-plus/src/main/java/com/xlccc" />
-      <recent name="$PROJECT_DIR$/springboot-mybatis-plus/src/main/resources/db" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringbootLogbackApplication">
+  <component name="RunManager" selected="Spring Boot.SpringbootOssQiniuApplication">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -272,6 +290,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringbootOssQiniuApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-oss-qiniu" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xlccc.SpringbootOssQiniuApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringbootSwaggerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springboot-swagger" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.xlccc.SpringbootSwaggerApplication" />
@@ -314,6 +339,7 @@
       <item itemvalue="Spring Boot.SpringbootEmailApplication" />
       <item itemvalue="Spring Boot.SpringbootLog4j2Application" />
       <item itemvalue="Spring Boot.SpringbootLogbackApplication" />
+      <item itemvalue="Spring Boot.SpringbootOssQiniuApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -351,7 +377,8 @@
       <workItem from="1579886087643" duration="6135000" />
       <workItem from="1579951570764" duration="939000" />
       <workItem from="1579972201957" duration="2443000" />
-      <workItem from="1579975525739" duration="1435000" />
+      <workItem from="1579975525739" duration="2922000" />
+      <workItem from="1580013642678" duration="4667000" />
     </task>
     <servers />
   </component>
@@ -395,18 +422,22 @@
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="688" y="142" key="#Auto_Import/0.0.1500.960@0.0.1500.960" timestamp="1579867312761" />
-    <state x="813" y="168" key="#com.intellij.ide.util.MemberChooser" timestamp="1579885022316">
+    <state x="414" y="136" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580020502581">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="813" y="168" key="#com.intellij.ide.util.MemberChooser/0.0.1500.960@0.0.1500.960" timestamp="1579885022316" />
+    <state x="414" y="136" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1500.960@0.0.1500.960" timestamp="1580020502581" />
+    <state x="813" y="168" key="#com.intellij.ide.util.MemberChooser" timestamp="1580017692165">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="813" y="168" key="#com.intellij.ide.util.MemberChooser/0.0.1500.960@0.0.1500.960" timestamp="1580017692165" />
     <state x="295" y="406" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1579884999464">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="295" y="406" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1500.960@0.0.1500.960" timestamp="1579884999464" />
-    <state x="422" y="362" width="716" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1579975913356">
+    <state x="422" y="362" width="716" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580017052257">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="422" y="362" width="716" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1500.960@0.0.1500.960" timestamp="1579975913356" />
+    <state x="422" y="362" width="716" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1500.960@0.0.1500.960" timestamp="1580017052257" />
     <state x="391" y="360" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1579885000116">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
@@ -415,54 +446,54 @@
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="508" y="361" key="FileChooserDialogImpl/0.0.1500.960@0.0.1500.960" timestamp="1579884647705" />
-    <state width="1054" height="253" key="GridCell.Tab.0.bottom" timestamp="1579976750164">
+    <state width="928" height="253" key="GridCell.Tab.0.bottom" timestamp="1580020648515">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1054" height="253" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1579976750164" />
-    <state width="1054" height="253" key="GridCell.Tab.0.center" timestamp="1579976750164">
+    <state width="928" height="253" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1580020648515" />
+    <state width="928" height="253" key="GridCell.Tab.0.center" timestamp="1580020648514">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1054" height="253" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1579976750164" />
-    <state width="1054" height="253" key="GridCell.Tab.0.left" timestamp="1579976750163">
+    <state width="928" height="253" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1580020648514" />
+    <state width="928" height="253" key="GridCell.Tab.0.left" timestamp="1580020648514">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1054" height="253" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1579976750163" />
-    <state width="1054" height="253" key="GridCell.Tab.0.right" timestamp="1579976750164">
+    <state width="928" height="253" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1580020648514" />
+    <state width="928" height="253" key="GridCell.Tab.0.right" timestamp="1580020648515">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="1054" height="253" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1579976750164" />
-    <state width="942" height="253" key="GridCell.Tab.1.bottom" timestamp="1579951492476">
+    <state width="928" height="253" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1580020648515" />
+    <state width="928" height="253" key="GridCell.Tab.1.bottom" timestamp="1580020648515">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="942" height="253" key="GridCell.Tab.1.bottom/0.0.1500.960@0.0.1500.960" timestamp="1579951492476" />
-    <state width="942" height="253" key="GridCell.Tab.1.center" timestamp="1579951492476">
+    <state width="928" height="253" key="GridCell.Tab.1.bottom/0.0.1500.960@0.0.1500.960" timestamp="1580020648515" />
+    <state width="928" height="253" key="GridCell.Tab.1.center" timestamp="1580020648515">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="942" height="253" key="GridCell.Tab.1.center/0.0.1500.960@0.0.1500.960" timestamp="1579951492476" />
-    <state width="942" height="253" key="GridCell.Tab.1.left" timestamp="1579951492475">
+    <state width="928" height="253" key="GridCell.Tab.1.center/0.0.1500.960@0.0.1500.960" timestamp="1580020648515" />
+    <state width="928" height="253" key="GridCell.Tab.1.left" timestamp="1580020648515">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="942" height="253" key="GridCell.Tab.1.left/0.0.1500.960@0.0.1500.960" timestamp="1579951492475" />
-    <state width="942" height="253" key="GridCell.Tab.1.right" timestamp="1579951492476">
+    <state width="928" height="253" key="GridCell.Tab.1.left/0.0.1500.960@0.0.1500.960" timestamp="1580020648515" />
+    <state width="928" height="253" key="GridCell.Tab.1.right" timestamp="1580020648515">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="942" height="253" key="GridCell.Tab.1.right/0.0.1500.960@0.0.1500.960" timestamp="1579951492476" />
-    <state x="281" y="136" key="Maven.ArtifactSearchDialog" timestamp="1579886198610">
+    <state width="928" height="253" key="GridCell.Tab.1.right/0.0.1500.960@0.0.1500.960" timestamp="1580020648515" />
+    <state x="281" y="136" key="Maven.ArtifactSearchDialog" timestamp="1580019319480">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="281" y="136" key="Maven.ArtifactSearchDialog/0.0.1500.960@0.0.1500.960" timestamp="1579886198610" />
+    <state x="281" y="136" key="Maven.ArtifactSearchDialog/0.0.1500.960@0.0.1500.960" timestamp="1580019319480" />
     <state x="355" y="109" key="SettingsEditor" timestamp="1579975455973">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="355" y="109" key="SettingsEditor/0.0.1500.960@0.0.1500.960" timestamp="1579975455973" />
-    <state x="415" y="286" key="com.intellij.ide.util.TipDialog" timestamp="1579951571437">
+    <state x="415" y="286" key="com.intellij.ide.util.TipDialog" timestamp="1580013808390">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="415" y="286" key="com.intellij.ide.util.TipDialog/0.0.1500.960@0.0.1500.960" timestamp="1579951571437" />
-    <state x="234" y="168" key="new project wizard" timestamp="1579976527425">
+    <state x="415" y="286" key="com.intellij.ide.util.TipDialog/0.0.1500.960@0.0.1500.960" timestamp="1580013808390" />
+    <state x="234" y="168" key="new project wizard" timestamp="1579977275138">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="234" y="168" key="new project wizard/0.0.1500.960@0.0.1500.960" timestamp="1579976527425" />
+    <state x="234" y="168" key="new project wizard/0.0.1500.960@0.0.1500.960" timestamp="1579977275138" />
     <state x="671" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1579885711409">
       <screen x="0" y="0" width="1500" height="960" />
     </state>

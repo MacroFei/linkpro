@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/springboot-kafka/springboot-kafka.iml" filepath="$PROJECT_DIR$/springboot-kafka/springboot-kafka.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-log4j2/springboot-log4j2.iml" filepath="$PROJECT_DIR$/springboot-log4j2/springboot-log4j2.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-logback/springboot-logback.iml" filepath="$PROJECT_DIR$/springboot-logback/springboot-logback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mongodb/springboot-mongodb.iml" filepath="$PROJECT_DIR$/springboot-mongodb/springboot-mongodb.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-mybatis/springboot-mybatis.iml" filepath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-mybatis/springboot-mybatis-annotation/springboot-mybatis-annotation.iml" filepath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis-annotation/springboot-mybatis-annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-mybatis-plus/springboot-mybatis-plus.iml" filepath="$PROJECT_DIR$/springboot-mybatis-plus/springboot-mybatis-plus.iml" />

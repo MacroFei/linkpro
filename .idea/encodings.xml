@@ -14,6 +14,7 @@
     <file url="file://$PROJECT_DIR$/springboot-log4j2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-log4j2/src/main/resources/application.yml" charset="GBK" />
     <file url="file://$PROJECT_DIR$/springboot-logback/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-mongodb/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-mybatis" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-mybatis-plus" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-mybatis-plus/src/main/java" charset="UTF-8" />

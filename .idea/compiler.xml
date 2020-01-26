@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springboot-mybatis-annotation" />
         <module name="springboot-mybatis-plus" />
+        <module name="springboot-mongodb" />
         <module name="springboot-first-redis" />
         <module name="springboot-email" />
         <module name="springboot-zookeeper" />
@@ -33,6 +34,7 @@
       <module name="springboot-kafka" target="1.8" />
       <module name="springboot-log4j2" target="1.8" />
       <module name="springboot-logback" target="1.8" />
+      <module name="springboot-mongodb" target="1.8" />
       <module name="springboot-mybatis" target="1.8" />
       <module name="springboot-mybatis-annotation" target="1.8" />
       <module name="springboot-mybatis-plus" target="1.8" />
@@ -53,6 +55,7 @@
       <module name="springboot-kafka" options="-parameters" />
       <module name="springboot-log4j2" options="-parameters" />
       <module name="springboot-logback" options="-parameters" />
+      <module name="springboot-mongodb" options="-parameters" />
       <module name="springboot-mybatis-annotation" options="-parameters" />
       <module name="springboot-mybatis-plus" options="-parameters" />
       <module name="springboot-mybatis-xml" options="-parameters" />

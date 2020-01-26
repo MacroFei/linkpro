@@ -21,6 +21,7 @@
         <option value="$PROJECT_DIR$/springboot-logback/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-oss-qiniu/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-oss-aliyun/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mongodb/pom.xml" />
       </list>
     </option>
   </component>

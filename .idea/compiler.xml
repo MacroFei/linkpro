@@ -21,6 +21,7 @@
         <module name="springboot-mybatis-xml" />
         <module name="springboot-docker" />
         <module name="springboot-swagger" />
+        <module name="springboot-oss-aliyun" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -36,6 +37,7 @@
       <module name="springboot-mybatis-annotation" target="1.8" />
       <module name="springboot-mybatis-plus" target="1.8" />
       <module name="springboot-mybatis-xml" target="1.8" />
+      <module name="springboot-oss-aliyun" target="1.8" />
       <module name="springboot-oss-qiniu" target="1.8" />
       <module name="springboot-swagger" target="1.8" />
       <module name="springboot-war" target="1.8" />
@@ -54,6 +56,7 @@
       <module name="springboot-mybatis-annotation" options="-parameters" />
       <module name="springboot-mybatis-plus" options="-parameters" />
       <module name="springboot-mybatis-xml" options="-parameters" />
+      <module name="springboot-oss-aliyun" options="-parameters" />
       <module name="springboot-oss-qiniu" options="-parameters" />
       <module name="springboot-swagger" options="-parameters" />
       <module name="springboot-war" options="-parameters" />

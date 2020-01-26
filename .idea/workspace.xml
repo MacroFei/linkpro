@@ -2,23 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f0bcfac-ffc3-4e52-9103-6d1f148062c3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_mongodb_2_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_2_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-mongodb/springboot-mongodb.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-mongodb/src/main/java/com/xlccc/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_58.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-mongodb/src/main/java/com/xlccc/common/JsonResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-mongodb/src/main/java/com/xlccc/controller/UserController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-oss-aliyun/target/classes/com/xlccc/config/AliyunOSSConfigConstant.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-oss-aliyun/target/classes/com/xlccc/config/AliyunOSSConfigConstant.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-oss-aliyun/target/classes/com/xlccc/utils/AliyunOSSUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-oss-aliyun/target/classes/com/xlccc/utils/AliyunOSSUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xlccc-600782-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-mongodb/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mongodb/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-mongodb/springboot-mongodb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mongodb/springboot-mongodb.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-mongodb/src/main/java/com/xlccc/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mongodb/src/main/java/com/xlccc/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-mongodb/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mongodb/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-mongodb/target/classes/com/xlccc/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mongodb/target/classes/com/xlccc/pojo/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-mongodb/target/test-classes/com/xlccc/springbootmongodb/SpringbootMongodbApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mongodb/target/test-classes/com/xlccc/springbootmongodb/SpringbootMongodbApplicationTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +112,7 @@
       <recent name="$PROJECT_DIR$/springboot-mybatis-plus/src/main/java/com/xlccc" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SpringbootMongodbApplicationTests.test1">
+  <component name="RunManager" selected="Spring Boot.SpringbootMongodbApplication">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -397,7 +391,8 @@
       <workItem from="1579975525739" duration="2922000" />
       <workItem from="1580013642678" duration="9197000" />
       <workItem from="1580028534215" duration="5453000" />
-      <workItem from="1580041979316" duration="1992000" />
+      <workItem from="1580041979316" duration="7669000" />
+      <workItem from="1580049915496" duration="296000" />
     </task>
     <servers />
   </component>
@@ -413,10 +408,10 @@
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="414" y="136" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1500.960@0.0.1500.960" timestamp="1580023771631" />
-    <state x="813" y="168" key="#com.intellij.ide.util.MemberChooser" timestamp="1580044125402">
+    <state x="813" y="168" key="#com.intellij.ide.util.MemberChooser" timestamp="1580045334672">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="813" y="168" key="#com.intellij.ide.util.MemberChooser/0.0.1500.960@0.0.1500.960" timestamp="1580044125402" />
+    <state x="813" y="168" key="#com.intellij.ide.util.MemberChooser/0.0.1500.960@0.0.1500.960" timestamp="1580045334672" />
     <state x="295" y="406" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1579884999464">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
@@ -433,38 +428,38 @@
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="508" y="361" key="FileChooserDialogImpl/0.0.1500.960@0.0.1500.960" timestamp="1579884647705" />
-    <state width="928" height="253" key="GridCell.Tab.0.bottom" timestamp="1580044135157">
+    <state width="928" height="253" key="GridCell.Tab.0.bottom" timestamp="1580049900982">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="928" height="253" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1580044135157" />
-    <state width="928" height="253" key="GridCell.Tab.0.center" timestamp="1580044135156">
+    <state width="928" height="253" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1580049900982" />
+    <state width="928" height="253" key="GridCell.Tab.0.center" timestamp="1580049900981">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="928" height="253" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1580044135156" />
-    <state width="928" height="253" key="GridCell.Tab.0.left" timestamp="1580044135156">
+    <state width="928" height="253" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1580049900981" />
+    <state width="928" height="253" key="GridCell.Tab.0.left" timestamp="1580049900981">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="928" height="253" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1580044135156" />
-    <state width="928" height="253" key="GridCell.Tab.0.right" timestamp="1580044135156">
+    <state width="928" height="253" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1580049900981" />
+    <state width="928" height="253" key="GridCell.Tab.0.right" timestamp="1580049900981">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="928" height="253" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1580044135156" />
-    <state width="928" height="253" key="GridCell.Tab.1.bottom" timestamp="1580030100435">
+    <state width="928" height="253" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1580049900981" />
+    <state width="928" height="253" key="GridCell.Tab.1.bottom" timestamp="1580049900982">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="928" height="253" key="GridCell.Tab.1.bottom/0.0.1500.960@0.0.1500.960" timestamp="1580030100435" />
-    <state width="928" height="253" key="GridCell.Tab.1.center" timestamp="1580030100435">
+    <state width="928" height="253" key="GridCell.Tab.1.bottom/0.0.1500.960@0.0.1500.960" timestamp="1580049900982" />
+    <state width="928" height="253" key="GridCell.Tab.1.center" timestamp="1580049900982">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="928" height="253" key="GridCell.Tab.1.center/0.0.1500.960@0.0.1500.960" timestamp="1580030100435" />
-    <state width="928" height="253" key="GridCell.Tab.1.left" timestamp="1580030100435">
+    <state width="928" height="253" key="GridCell.Tab.1.center/0.0.1500.960@0.0.1500.960" timestamp="1580049900982" />
+    <state width="928" height="253" key="GridCell.Tab.1.left" timestamp="1580049900982">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="928" height="253" key="GridCell.Tab.1.left/0.0.1500.960@0.0.1500.960" timestamp="1580030100435" />
-    <state width="928" height="253" key="GridCell.Tab.1.right" timestamp="1580030100435">
+    <state width="928" height="253" key="GridCell.Tab.1.left/0.0.1500.960@0.0.1500.960" timestamp="1580049900982" />
+    <state width="928" height="253" key="GridCell.Tab.1.right" timestamp="1580049900982">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="928" height="253" key="GridCell.Tab.1.right/0.0.1500.960@0.0.1500.960" timestamp="1580030100435" />
+    <state width="928" height="253" key="GridCell.Tab.1.right/0.0.1500.960@0.0.1500.960" timestamp="1580049900982" />
     <state x="281" y="136" key="Maven.ArtifactSearchDialog" timestamp="1580019319480">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
@@ -485,10 +480,10 @@
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="234" y="127" key="new project wizard/0.0.1500.960@0.0.1500.960" timestamp="1580040025561" />
-    <state x="671" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1579885711409">
+    <state x="671" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1580046433356">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="671" y="211" width="672" height="678" key="search.everywhere.popup/0.0.1500.960@0.0.1500.960" timestamp="1579885711409" />
+    <state x="671" y="211" width="672" height="678" key="search.everywhere.popup/0.0.1500.960@0.0.1500.960" timestamp="1580046433356" />
   </component>
   <component name="masterDetails">
     <states>

@@ -9,19 +9,19 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springboot-mybatis-annotation" />
         <module name="springboot-mybatis-plus" />
-        <module name="springboot-mongodb" />
+        <module name="springboot-swagger" />
         <module name="springboot-first-redis" />
-        <module name="springboot-email" />
-        <module name="springboot-zookeeper" />
+        <module name="springboot-mongodb" />
         <module name="springboot-logback" />
         <module name="springboot-kafka" />
         <module name="springboot-war" />
         <module name="springboot-log4j2" />
+        <module name="springboot-zookeeper" />
         <module name="springboot-helloworld" />
         <module name="springboot-oss-qiniu" />
         <module name="springboot-mybatis-xml" />
         <module name="springboot-docker" />
-        <module name="springboot-swagger" />
+        <module name="springboot-email" />
         <module name="springboot-oss-aliyun" />
       </profile>
     </annotationProcessing>

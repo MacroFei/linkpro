@@ -2,17 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f0bcfac-ffc3-4e52-9103-6d1f148062c3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_58.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-mongodb/src/main/java/com/xlccc/common/JsonResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-mongodb/src/main/java/com/xlccc/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_101tec_zkclient_0_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_spring_boot_dubbo_spring_boot_starter_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_netty_netty_3_2_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo/springboot-dubbo-common/springboot-dubbo-common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo/springboot-dubbo-common/src/main/java/com/xlccc/common/service/HelloService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo/springboot-dubbo-consumer/springboot-dubbo-consumer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo/springboot-dubbo-consumer/src/main/java/com/xlccc/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo/springboot-dubbo-consumer/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo/springboot-dubbo-provider/springboot-dubbo-provider.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo/springboot-dubbo-provider/src/main/java/com/xlccc/service/HelloServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-dubbo/springboot-dubbo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mongodb/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mongodb/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mongodb/springboot-mongodb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mongodb/springboot-mongodb.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mongodb/src/main/java/com/xlccc/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mongodb/src/main/java/com/xlccc/pojo/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mongodb/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mongodb/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mongodb/target/classes/com/xlccc/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mongodb/target/classes/com/xlccc/pojo/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mongodb/target/test-classes/com/xlccc/springbootmongodb/SpringbootMongodbApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-mongodb/target/test-classes/com/xlccc/springbootmongodb/SpringbootMongodbApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +83,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -112,7 +132,7 @@
       <recent name="$PROJECT_DIR$/springboot-mybatis-plus/src/main/java/com/xlccc" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringbootMongodbApplication">
+  <component name="RunManager" selected="Spring Boot.SpringbootDubboConsumerApplication">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -225,6 +245,27 @@
     <configuration name="SpringbootDockerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springboot-docker" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.xlccc.SpringbootDockerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootDubboCommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-dubbo-common" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xlccc.SpringbootDubboCommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootDubboConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-dubbo-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xlccc.SpringbootDubboConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootDubboProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-dubbo-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xlccc.SpringbootDubboProviderApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -351,6 +392,9 @@
       <item itemvalue="Spring Boot.SpringbootOssQiniuApplication" />
       <item itemvalue="Spring Boot.SpringbootOssAliyunApplication" />
       <item itemvalue="Spring Boot.SpringbootMongodbApplication" />
+      <item itemvalue="Spring Boot.SpringbootDubboCommonApplication" />
+      <item itemvalue="Spring Boot.SpringbootDubboProviderApplication" />
+      <item itemvalue="Spring Boot.SpringbootDubboConsumerApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -392,7 +436,9 @@
       <workItem from="1580013642678" duration="9197000" />
       <workItem from="1580028534215" duration="5453000" />
       <workItem from="1580041979316" duration="7669000" />
-      <workItem from="1580049915496" duration="296000" />
+      <workItem from="1580049915496" duration="1058000" />
+      <workItem from="1580103971296" duration="689000" />
+      <workItem from="1580207797887" duration="5604000" />
     </task>
     <servers />
   </component>
@@ -408,18 +454,18 @@
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="414" y="136" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1500.960@0.0.1500.960" timestamp="1580023771631" />
-    <state x="813" y="168" key="#com.intellij.ide.util.MemberChooser" timestamp="1580045334672">
+    <state x="813" y="168" key="#com.intellij.ide.util.MemberChooser" timestamp="1580219577835">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="813" y="168" key="#com.intellij.ide.util.MemberChooser/0.0.1500.960@0.0.1500.960" timestamp="1580045334672" />
+    <state x="813" y="168" key="#com.intellij.ide.util.MemberChooser/0.0.1500.960@0.0.1500.960" timestamp="1580219577835" />
     <state x="295" y="406" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1579884999464">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="295" y="406" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1500.960@0.0.1500.960" timestamp="1579884999464" />
-    <state x="422" y="362" width="716" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580040514573">
+    <state x="422" y="362" width="716" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580219689054">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="422" y="362" width="716" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1500.960@0.0.1500.960" timestamp="1580040514573" />
+    <state x="422" y="362" width="716" height="290" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1500.960@0.0.1500.960" timestamp="1580219689054" />
     <state x="391" y="360" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1579885000116">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
@@ -428,38 +474,38 @@
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="508" y="361" key="FileChooserDialogImpl/0.0.1500.960@0.0.1500.960" timestamp="1579884647705" />
-    <state width="928" height="253" key="GridCell.Tab.0.bottom" timestamp="1580049900982">
+    <state width="928" height="253" key="GridCell.Tab.0.bottom" timestamp="1580221700636">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="928" height="253" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1580049900982" />
-    <state width="928" height="253" key="GridCell.Tab.0.center" timestamp="1580049900981">
+    <state width="928" height="253" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1580221700636" />
+    <state width="928" height="253" key="GridCell.Tab.0.center" timestamp="1580221700636">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="928" height="253" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1580049900981" />
-    <state width="928" height="253" key="GridCell.Tab.0.left" timestamp="1580049900981">
+    <state width="928" height="253" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1580221700636" />
+    <state width="928" height="253" key="GridCell.Tab.0.left" timestamp="1580221700635">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="928" height="253" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1580049900981" />
-    <state width="928" height="253" key="GridCell.Tab.0.right" timestamp="1580049900981">
+    <state width="928" height="253" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1580221700635" />
+    <state width="928" height="253" key="GridCell.Tab.0.right" timestamp="1580221700636">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="928" height="253" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1580049900981" />
-    <state width="928" height="253" key="GridCell.Tab.1.bottom" timestamp="1580049900982">
+    <state width="928" height="253" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1580221700636" />
+    <state width="928" height="253" key="GridCell.Tab.1.bottom" timestamp="1580221700638">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="928" height="253" key="GridCell.Tab.1.bottom/0.0.1500.960@0.0.1500.960" timestamp="1580049900982" />
-    <state width="928" height="253" key="GridCell.Tab.1.center" timestamp="1580049900982">
+    <state width="928" height="253" key="GridCell.Tab.1.bottom/0.0.1500.960@0.0.1500.960" timestamp="1580221700638" />
+    <state width="928" height="253" key="GridCell.Tab.1.center" timestamp="1580221700637">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="928" height="253" key="GridCell.Tab.1.center/0.0.1500.960@0.0.1500.960" timestamp="1580049900982" />
-    <state width="928" height="253" key="GridCell.Tab.1.left" timestamp="1580049900982">
+    <state width="928" height="253" key="GridCell.Tab.1.center/0.0.1500.960@0.0.1500.960" timestamp="1580221700637" />
+    <state width="928" height="253" key="GridCell.Tab.1.left" timestamp="1580221700637">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="928" height="253" key="GridCell.Tab.1.left/0.0.1500.960@0.0.1500.960" timestamp="1580049900982" />
-    <state width="928" height="253" key="GridCell.Tab.1.right" timestamp="1580049900982">
+    <state width="928" height="253" key="GridCell.Tab.1.left/0.0.1500.960@0.0.1500.960" timestamp="1580221700637" />
+    <state width="928" height="253" key="GridCell.Tab.1.right" timestamp="1580221700638">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state width="928" height="253" key="GridCell.Tab.1.right/0.0.1500.960@0.0.1500.960" timestamp="1580049900982" />
+    <state width="928" height="253" key="GridCell.Tab.1.right/0.0.1500.960@0.0.1500.960" timestamp="1580221700638" />
     <state x="281" y="136" key="Maven.ArtifactSearchDialog" timestamp="1580019319480">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
@@ -468,22 +514,22 @@
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="355" y="109" key="SettingsEditor/0.0.1500.960@0.0.1500.960" timestamp="1580028100281" />
-    <state x="415" y="286" key="com.intellij.ide.util.TipDialog" timestamp="1580042074956">
+    <state x="415" y="286" key="com.intellij.ide.util.TipDialog" timestamp="1580208015084">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="415" y="286" key="com.intellij.ide.util.TipDialog/0.0.1500.960@0.0.1500.960" timestamp="1580042074956" />
+    <state x="415" y="286" key="com.intellij.ide.util.TipDialog/0.0.1500.960@0.0.1500.960" timestamp="1580208015084" />
     <state x="0" y="136" width="739" height="657" key="dock-window-1" timestamp="1580029492612">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="0" y="136" width="739" height="657" key="dock-window-1/0.0.1500.960@0.0.1500.960" timestamp="1580029492612" />
-    <state x="234" y="127" key="new project wizard" timestamp="1580040025561">
+    <state x="44" y="187" key="new project wizard" timestamp="1580216207662">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="234" y="127" key="new project wizard/0.0.1500.960@0.0.1500.960" timestamp="1580040025561" />
-    <state x="671" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1580046433356">
+    <state x="44" y="187" key="new project wizard/0.0.1500.960@0.0.1500.960" timestamp="1580216207662" />
+    <state x="672" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1580216831990">
       <screen x="0" y="0" width="1500" height="960" />
     </state>
-    <state x="671" y="211" width="672" height="678" key="search.everywhere.popup/0.0.1500.960@0.0.1500.960" timestamp="1580046433356" />
+    <state x="672" y="211" width="672" height="678" key="search.everywhere.popup/0.0.1500.960@0.0.1500.960" timestamp="1580216831990" />
   </component>
   <component name="masterDetails">
     <states>

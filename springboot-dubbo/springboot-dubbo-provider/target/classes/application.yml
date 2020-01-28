@@ -1,0 +1,18 @@
+#
+## ���ö˿�
+#server.port=8333
+#
+#spring.dubbo.application.name=springboot-dubbo-provider
+#spring.dubbo.application.registry=zookeeper://180.76.159.158:2181
+##spring.dubbo.application.registry=zookeeper://ip��ַ:2181
+
+server:
+  port: 9090
+  servlet:
+    context-path: /demo
+
+spring:
+  dubbo:
+    application:
+      name: springboot-dubbo-provider
+      registry: zookeeper://180.76.159.158:2181

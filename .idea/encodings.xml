@@ -4,6 +4,10 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-docker" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-docker/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-dubbo/springboot-dubbo-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-dubbo/springboot-dubbo-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-dubbo/springboot-dubbo-provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-dubbo/springboot-dubbo-provider/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-email/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-first-redis" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springboot-first-redis/src/main/java" charset="UTF-8" />

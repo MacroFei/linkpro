@@ -1,5 +1,0 @@
-com\xlccc\vo\JsonResult.class
-com\xlccc\service\IMailService.class
-com\xlccc\service\impl\IMailServiceImpl.class
-com\xlccc\controller\EmailController.class
-com\xlccc\SpringbootEmailApplication.class

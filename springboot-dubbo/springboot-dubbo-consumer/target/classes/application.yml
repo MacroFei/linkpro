@@ -1,10 +1,9 @@
 server:
   port: 8080
-#  servlet:
-#    context-path: /
+
 
 spring:
   dubbo:
     application:
       name: springboot-dubbo-consumer
-      registry: zookeeper://180.76.159.158:2181
+      registry: zookeeper://ip地址:2181

@@ -8,22 +8,23 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springboot-mybatis-annotation" />
+        <module name="springboot-shiro-simple" />
+        <module name="springboot-mybatis-xml" />
         <module name="springboot-mybatis-plus" />
         <module name="springboot-dubbo-consumer" />
+        <module name="springboot-swagger" />
         <module name="springboot-first-redis" />
-        <module name="springboot-email" />
         <module name="springboot-mongodb" />
         <module name="springboot-logback" />
         <module name="springboot-kafka" />
         <module name="springboot-war" />
-        <module name="springboot-dubbo-provider" />
         <module name="springboot-log4j2" />
         <module name="springboot-zookeeper" />
         <module name="springboot-helloworld" />
         <module name="springboot-oss-qiniu" />
-        <module name="springboot-mybatis-xml" />
+        <module name="springboot-dubbo-provider" />
         <module name="springboot-docker" />
-        <module name="springboot-swagger" />
+        <module name="springboot-email" />
         <module name="springboot-dubbo-common" />
         <module name="springboot-oss-aliyun" />
       </profile>
@@ -48,6 +49,8 @@
       <module name="springboot-mybatis-xml" target="1.8" />
       <module name="springboot-oss-aliyun" target="1.8" />
       <module name="springboot-oss-qiniu" target="1.8" />
+      <module name="springboot-shiro" target="1.7" />
+      <module name="springboot-shiro-simple" target="1.8" />
       <module name="springboot-swagger" target="1.8" />
       <module name="springboot-war" target="1.8" />
       <module name="springboot-zookeeper" target="1.8" />
@@ -72,6 +75,7 @@
       <module name="springboot-mybatis-xml" options="-parameters" />
       <module name="springboot-oss-aliyun" options="-parameters" />
       <module name="springboot-oss-qiniu" options="-parameters" />
+      <module name="springboot-shiro-simple" options="-parameters" />
       <module name="springboot-swagger" options="-parameters" />
       <module name="springboot-war" options="-parameters" />
       <module name="springboot-zookeeper" options="-parameters" />

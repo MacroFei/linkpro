@@ -26,6 +26,7 @@
         <option value="$PROJECT_DIR$/springboot-dubbo/springboot-dubbo-provider/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-dubbo/springboot-dubbo-consumer/pom.xml" />
         <option value="$PROJECT_DIR$/springboot-shiro/springboot-shiro-simple/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/pom.xml" />
       </list>
     </option>
   </component>

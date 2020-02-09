@@ -22,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/springboot-oss-aliyun/springboot-oss-aliyun.iml" filepath="$PROJECT_DIR$/springboot-oss-aliyun/springboot-oss-aliyun.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-oss-qiniu/springboot-oss-qiniu.iml" filepath="$PROJECT_DIR$/springboot-oss-qiniu/springboot-oss-qiniu.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-shiro/springboot-shiro.iml" filepath="$PROJECT_DIR$/springboot-shiro/springboot-shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/springboot-shiro-normal.iml" filepath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/springboot-shiro-normal.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-shiro/springboot-shiro-simple/springboot-shiro-simple.iml" filepath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-simple/springboot-shiro-simple.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-swagger/springboot-swagger.iml" filepath="$PROJECT_DIR$/springboot-swagger/springboot-swagger.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-war/springboot-war.iml" filepath="$PROJECT_DIR$/springboot-war/springboot-war.iml" />

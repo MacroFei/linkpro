@@ -8,7 +8,6 @@
       <module fileurl="file://$PROJECT_DIR$/springboot-dubbo/springboot-dubbo-common/springboot-dubbo-common.iml" filepath="$PROJECT_DIR$/springboot-dubbo/springboot-dubbo-common/springboot-dubbo-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-dubbo/springboot-dubbo-consumer/springboot-dubbo-consumer.iml" filepath="$PROJECT_DIR$/springboot-dubbo/springboot-dubbo-consumer/springboot-dubbo-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-dubbo/springboot-dubbo-provider/springboot-dubbo-provider.iml" filepath="$PROJECT_DIR$/springboot-dubbo/springboot-dubbo-provider/springboot-dubbo-provider.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springboot-elasticsearch/springboot-elasticsearch.iml" filepath="$PROJECT_DIR$/springboot-elasticsearch/springboot-elasticsearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-email/springboot-email.iml" filepath="$PROJECT_DIR$/springboot-email/springboot-email.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-first-redis/springboot-first-redis.iml" filepath="$PROJECT_DIR$/springboot-first-redis/springboot-first-redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-helloworld/springboot-helloworld.iml" filepath="$PROJECT_DIR$/springboot-helloworld/springboot-helloworld.iml" />

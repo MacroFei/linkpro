@@ -2,156 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f0bcfac-ffc3-4e52-9103-6d1f148062c3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_43_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_jute_3_5_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-elasticsearch/src/main/java/com/xlccc/common/ResponseResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-elasticsearch/src/main/java/com/xlccc/common/enums/ResponseCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-elasticsearch/src/main/java/com/xlccc/controller/ElasticIndexController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-elasticsearch/src/main/java/com/xlccc/controller/ElasticMgrController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-elasticsearch/src/main/java/com/xlccc/elastic/config/ElasticConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-elasticsearch/src/main/java/com/xlccc/elastic/entity/ElasticEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-elasticsearch/src/main/java/com/xlccc/elastic/service/BaseElasticService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-elasticsearch/src/main/java/com/xlccc/utils/ElasticUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-elasticsearch/src/main/java/com/xlccc/vo/ElasticDataVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-elasticsearch/src/main/java/com/xlccc/vo/IdxVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-elasticsearch/src/main/java/com/xlccc/vo/QueryVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-elasticsearch/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_theborakompanioni_thymeleaf_extras_shiro_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_1_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/springboot-shiro-normal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/src/main/java/com/xlccc/config/AuthRealm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/src/main/java/com/xlccc/config/ShiroFonciguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/src/main/java/com/xlccc/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/src/main/java/com/xlccc/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/src/main/java/com/xlccc/pojo/Permission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/src/main/java/com/xlccc/pojo/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/src/main/java/com/xlccc/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/src/main/java/com/xlccc/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/src/main/java/com/xlccc/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/src/main/resources/shiro.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/src/main/resources/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/src/main/resources/templates/success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/src/main/resources/templates/test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_10_6_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_5_4_beta.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_5_5.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-docker/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-docker/target/classes/com/xlccc/SpringbootDockerApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-docker/target/classes/com/xlccc/controller/HelloController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-docker/target/test-classes/com/xlccc/springbootdocker/SpringbootDockerApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-dubbo/springboot-dubbo-common/target/classes/com/xlccc/SpringbootDubboCommonApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-dubbo/springboot-dubbo-common/target/classes/com/xlccc/common/service/HelloService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-dubbo/springboot-dubbo-consumer/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-dubbo/springboot-dubbo-consumer/target/classes/com/xlccc/SpringbootDubboConsumerApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-dubbo/springboot-dubbo-consumer/target/classes/com/xlccc/controller/HelloController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-dubbo/springboot-dubbo-consumer/target/test-classes/com/xlccc/springbootdubboconsumer/SpringbootDubboConsumerApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-dubbo/springboot-dubbo-provider/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-dubbo/springboot-dubbo-provider/target/classes/com/xlccc/SpringbootDubboProviderApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-dubbo/springboot-dubbo-provider/target/classes/com/xlccc/service/HelloServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-dubbo/springboot-dubbo-provider/target/test-classes/com/xlccc/springbootdubboprovider/SpringbootDubboProviderApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-email/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-email/target/classes/com/xlccc/SpringbootEmailApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-email/target/classes/com/xlccc/common/JsonResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-email/target/classes/com/xlccc/controller/EmailController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-email/target/classes/com/xlccc/service/IMailService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-email/target/classes/com/xlccc/service/impl/IMailServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-email/target/classes/templates/emailTemp.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-email/target/classes/templates/welcome.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-email/target/test-classes/com/xlccc/springbootemail/SpringbootEmailApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-kafka/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-kafka/target/classes/com/xlccc/KafkaApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-kafka/target/classes/com/xlccc/consumer/KafkaConsumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-kafka/target/classes/com/xlccc/producer/KafkaProducer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-kafka/target/test-classes/com/xlccc/springbootkafka/SpringbootKafkaApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-log4j2/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-log4j2/target/classes/com/xlccc/SpringbootLog4j2Application.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-log4j2/target/classes/com/xlccc/log4j2/LogExampleOther.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-log4j2/target/classes/log4j2-spring.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-log4j2/target/test-classes/com/xlccc/springbootlog4j2/SpringbootLog4j2ApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-logback/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-logback/target/classes/com/xlccc/springbootlogback/SpringbootLogbackApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-logback/target/classes/logback-spring.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-logback/target/test-classes/com/xlccc/springbootlogback/SpringbootLogbackApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mongodb/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mongodb/target/classes/com/xlccc/SpringbootMongodbApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mongodb/target/classes/com/xlccc/common/JsonResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mongodb/target/classes/com/xlccc/controller/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mongodb/target/classes/com/xlccc/pojo/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mongodb/target/test-classes/com/xlccc/springbootmongodb/SpringbootMongodbApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis-plus/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis-plus/target/classes/com/xlccc/SpringbootMybatisPlusApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis-plus/target/classes/com/xlccc/config/MybatisPlusConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis-plus/target/classes/com/xlccc/mapper/UserMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis-plus/target/classes/com/xlccc/model/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis-plus/target/classes/db/data-h2.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis-plus/target/classes/db/schema-h2.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis-plus/target/test-classes/com/xlccc/springbootmybatisplus/SpringbootMybatisPlusApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis-annotation/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis-annotation/target/classes/com/xlccc/SpringbootMybatisAnnotationApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis-annotation/target/classes/com/xlccc/config/PageHelperConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis-annotation/target/classes/com/xlccc/controller/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis-annotation/target/classes/com/xlccc/exception/GlobalExceptionHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis-annotation/target/classes/com/xlccc/mapper/UserMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis-annotation/target/classes/com/xlccc/pojo/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis-annotation/target/test-classes/com/xlccc/springbootmybatisannotation/SpringbootMybatisAnnotationApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis-xml/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis-xml/target/classes/com/xlccc/SpringbootMybatisXmlApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis-xml/target/classes/com/xlccc/util/MybatisGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis-xml/target/classes/com/xlccc/util/OverIsMergeablePlugin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis-xml/target/classes/generatorConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-mybatis/springboot-mybatis-xml/target/test-classes/com/xlccc/springbootmybatisxml/SpringbootMybatisXmlApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-oss-aliyun/springboot-oss-aliyun.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-oss-aliyun/springboot-oss-aliyun.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-oss-aliyun/target/classes/application-oss.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-oss-aliyun/target/classes/com/xlccc/SpringbootOssAliyunApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-oss-aliyun/target/classes/com/xlccc/config/AliyunOSSConfigConstant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-oss-aliyun/target/classes/com/xlccc/controller/AliyunOSSController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-oss-aliyun/target/classes/com/xlccc/controller/IndexController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-oss-aliyun/target/classes/com/xlccc/utils/AliyunOSSUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-oss-aliyun/target/classes/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-oss-aliyun/target/classes/templates/success.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-oss-aliyun/target/test-classes/com/xlccc/springbootossaliyun/SpringbootOssAliyunApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-oss-qiniu/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-oss-qiniu/target/classes/com/xlccc/SpringbootOssQiniuApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-oss-qiniu/target/classes/com/xlccc/config/UploadConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-oss-qiniu/target/classes/com/xlccc/controller/IndexController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-oss-qiniu/target/classes/com/xlccc/controller/UploadController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-oss-qiniu/target/classes/com/xlccc/service/IQiNiuService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-oss-qiniu/target/classes/com/xlccc/service/impl/QiNiuServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-oss-qiniu/target/classes/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-oss-qiniu/target/test-classes/com/xlccc/springbootossqiniu/SpringbootOssQiniuApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/springboot-shiro-normal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/springboot-shiro-normal.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/target/classes/com/xlccc/SpringbootShiroNormalApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/target/classes/com/xlccc/config/AuthRealm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/target/classes/com/xlccc/config/ShiroFonciguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/target/classes/com/xlccc/controller/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/target/classes/com/xlccc/mapper/UserMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/target/classes/com/xlccc/pojo/Permission.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/target/classes/com/xlccc/pojo/Role.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/target/classes/com/xlccc/pojo/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/target/classes/com/xlccc/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/target/classes/com/xlccc/service/impl/UserServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/target/classes/mapper/UserMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/target/classes/shiro.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/target/classes/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/target/classes/templates/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/target/classes/templates/success.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/target/classes/templates/test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/target/test-classes/com/xlccc/SpringbootShiroNormalApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-simple/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-simple/target/classes/com/xlccc/SpringbootShiroSimpleApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-simple/target/classes/com/xlccc/config/ShiroConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-simple/target/classes/com/xlccc/controller/ShiroSampleController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-simple/target/classes/com/xlccc/dao/ShiroSampleDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-simple/target/classes/com/xlccc/service/ShiroSampleService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-shiro/springboot-shiro-simple/target/classes/com/xlccc/shiro/CustomRealm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-swagger/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-swagger/target/classes/com/xlccc/SpringbootSwaggerApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-swagger/target/classes/com/xlccc/controller/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-swagger/target/classes/com/xlccc/pojo/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-swagger/target/test-classes/com/xlccc/springbootswagger/SpringbootSwaggerApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-war/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-war/target/classes/com/xlccc/SpringbootWarApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-war/target/classes/com/xlccc/controller/HelloController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-war/target/test-classes/com/xlccc/springbootwar/SpringbootWarApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-zookeeper/springboot-zookeeper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-zookeeper/springboot-zookeeper.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-zookeeper/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-zookeeper/target/classes/com/xlccc/Utils/ZookeeperUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-zookeeper/target/classes/com/xlccc/config/props/ZkProps.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-zookeeper/target/classes/com/xlccc/config/props/ZkWatcher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-zookeeper/target/classes/com/xlccc/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-zookeeper/target/classes/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-zookeeper/target/test-classes/com/xlccc/springbootzookeeper/ZookeeperApplicationTests.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,7 +100,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/springboot-elasticsearch/src/main/java/com/xlccc" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springboot-shiro/springboot-shiro-normal/src/main/java/com/xlccc/pojo" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -246,14 +125,14 @@
       <recent name="com.xlccc.common" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/springboot-elasticsearch/src/main/java/com/xlccc" />
-      <recent name="$PROJECT_DIR$/springboot-elasticsearch/src/main/resources" />
       <recent name="C:\Users\macro\Documents\GitHub\linkpro\springboot-shiro\springboot-shiro-normal\src\main\java\com\xlccc\pojo" />
       <recent name="C:\Users\macro\Documents\GitHub\linkpro\springboot-shiro\springboot-shiro-normal\src\main\java\com\xlccc\config" />
       <recent name="C:\Users\macro\Documents\GitHub\linkpro\springboot-shiro\springboot-shiro-normal\src\main\resources\mapper" />
+      <recent name="C:\Users\macro\Documents\GitHub\linkpro\springboot-shiro\springboot-shiro-normal\src\main\resources" />
+      <recent name="C:\Users\macro\Documents\GitHub\linkpro\springboot-shiro\springboot-shiro-normal\src\main\resources\templates" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringbootElasticsearchApplication">
+  <component name="RunManager" selected="Spring Boot.SpringbootShiroNormalApplication">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -387,13 +266,6 @@
     <configuration name="SpringbootDubboProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springboot-dubbo-provider" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.xlccc.SpringbootDubboProviderApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SpringbootElasticsearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="springboot-elasticsearch" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xlccc.SpringbootElasticsearchApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -539,7 +411,6 @@
       <item itemvalue="Spring Boot.SpringbootDubboConsumerApplication" />
       <item itemvalue="Spring Boot.SpringbootShiroSimpleApplication" />
       <item itemvalue="Spring Boot.SpringbootShiroNormalApplication" />
-      <item itemvalue="Spring Boot.SpringbootElasticsearchApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -592,7 +463,6 @@
       <workItem from="1581223751713" duration="1902000" />
       <workItem from="1581251125707" duration="661000" />
       <workItem from="1581256864017" duration="3998000" />
-      <workItem from="1582569235218" duration="178000" />
     </task>
     <servers />
   </component>
@@ -680,11 +550,10 @@
       <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="0" y="136" width="739" height="657" key="dock-window-1/0.0.1500.960@0.0.1500.960" timestamp="1580029492612" />
-    <state x="49" y="210" key="new project wizard" timestamp="1582569336939">
-      <screen x="0" y="23" width="1680" height="962" />
+    <state x="44" y="187" key="new project wizard" timestamp="1581223897464">
+      <screen x="0" y="0" width="1500" height="960" />
     </state>
     <state x="44" y="187" key="new project wizard/0.0.1500.960@0.0.1500.960" timestamp="1581223897464" />
-    <state x="49" y="210" key="new project wizard/0.23.1680.962@0.23.1680.962" timestamp="1582569336939" />
     <state x="672" y="211" width="672" height="678" key="search.everywhere.popup" timestamp="1580216831990">
       <screen x="0" y="0" width="1500" height="960" />
     </state>

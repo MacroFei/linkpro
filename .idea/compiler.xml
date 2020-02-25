@@ -9,23 +9,24 @@
         <outputRelativeToContentRoot value="true" />
         <module name="springboot-mybatis-annotation" />
         <module name="springboot-shiro-simple" />
+        <module name="springboot-mybatis-xml" />
         <module name="springboot-mybatis-plus" />
         <module name="springboot-dubbo-consumer" />
         <module name="springboot-shiro-normal" />
-        <module name="springboot-first-redis" />
-        <module name="springboot-email" />
         <module name="springboot-mongodb" />
+        <module name="springboot-first-redis" />
+        <module name="springboot-zookeeper" />
         <module name="springboot-logback" />
         <module name="springboot-kafka" />
         <module name="springboot-war" />
-        <module name="springboot-dubbo-provider" />
+        <module name="springboot-swagger" />
         <module name="springboot-log4j2" />
-        <module name="springboot-zookeeper" />
+        <module name="springboot-elasticsearch" />
         <module name="springboot-helloworld" />
         <module name="springboot-oss-qiniu" />
-        <module name="springboot-mybatis-xml" />
+        <module name="springboot-dubbo-provider" />
         <module name="springboot-docker" />
-        <module name="springboot-swagger" />
+        <module name="springboot-email" />
         <module name="springboot-dubbo-common" />
         <module name="springboot-oss-aliyun" />
       </profile>
@@ -37,6 +38,7 @@
       <module name="springboot-dubbo-common" target="1.8" />
       <module name="springboot-dubbo-consumer" target="1.8" />
       <module name="springboot-dubbo-provider" target="1.8" />
+      <module name="springboot-elasticsearch" target="1.8" />
       <module name="springboot-email" target="1.8" />
       <module name="springboot-first-redis" target="1.8" />
       <module name="springboot-helloworld" target="1.8" />
@@ -65,6 +67,7 @@
       <module name="springboot-dubbo-common" options="-parameters" />
       <module name="springboot-dubbo-consumer" options="-parameters" />
       <module name="springboot-dubbo-provider" options="-parameters" />
+      <module name="springboot-elasticsearch" options="-parameters" />
       <module name="springboot-email" options="-parameters" />
       <module name="springboot-first-redis" options="-parameters" />
       <module name="springboot-helloworld" options="-parameters" />
